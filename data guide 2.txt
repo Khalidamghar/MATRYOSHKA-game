@@ -33,70 +33,70 @@
     },
     "guideData": [
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVdXol4.jpg",
+      "title": "MATRYOSHKA game 1",
+        "text_Content": "Matryoshka is a puzzle game that has gained immense popularity over the years. It is a game that involves a set of dolls that are placed inside one another. These dolls are also known as Russian nesting dolls or babushka dolls. The game requires players to carefully take apart the dolls to reveal the smaller dolls inside, and then put them back together in the correct order.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 2",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVdXTRS.jpg",
+      "title": "MATRYOSHKA game 2",
+        "text_Content": "The history of the Matryoshka game dates back to the 19th century in Russia. The first set of nesting dolls was created in 1890 by a Russian craftsman named Vasily Zvyozdochkin. The dolls were made to depict a traditional Russian family, with the largest doll representing the mother, and the smaller dolls representing the children. The dolls quickly gained popularity in Russia and were soon exported to other countries.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 3",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVdXAb9.jpg",
+      "title": "MATRYOSHKA game 3",
+        "text_Content": "The popularity of the Matryoshka dolls led to the creation of the Matryoshka game. The game involves a set of dolls that are arranged in a particular order, with each doll containing a smaller doll inside. The goal of the game is to take apart the dolls in the correct order, revealing the smaller dolls inside, and then putting them back together again.",
+        "text_Content_1": ""
 
 
 
       
     }
     ,{
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 4",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVdXIJ2.jpg",
+      "title": "MATRYOSHKA game 4",
+        "text_Content": "The Matryoshka game is not just a popular pastime, but it also has many benefits. One of the benefits of the game is that it helps to develop fine motor skills. The game requires players to carefully manipulate the dolls to take them apart and put them back together again, which helps to improve hand-eye coordination and dexterity.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 5",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVdXxUl.jpg",
+      "title": "MATRYOSHKA game 5",
+        "text_Content": "Another benefit of the Matryoshka game is that it helps to improve cognitive skills. The game requires players to think strategically and plan their moves carefully to successfully take apart the dolls and put them back together again. This helps to improve problem-solving skills and critical thinking.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 6",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVdXuO7.jpg",
+      "title": "MATRYOSHKA game 6",
+        "text_Content": "The Matryoshka game also helps to improve memory skills. The game requires players to remember the order in which the dolls are arranged, and the order in which they need to be put back together. This helps to improve memory retention and recall.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 7",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVdX5xe.jpg",
+      "title": "MATRYOSHKA game 7",
+        "text_Content": "One of the most popular versions of the Matryoshka game is the puzzle game. This version of the game involves a set of dolls that are arranged in a particular order, and the goal is to take apart the dolls and put them back together again as quickly as possible. This version of the game is often timed, and players compete against each other to see who can complete the puzzle the fastest.",
+        "text_Content_1": ""
 
 
 
